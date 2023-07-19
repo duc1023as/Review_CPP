@@ -1,0 +1,17 @@
+Bài tập 1: Đảo ngược chuỗi
+Viết một chương trình nhận chuỗi từ người dùng và in ra chuỗi đảo ngược của nó. Ví dụ: nếu người dùng nhập "Hello", chương trình sẽ in ra "olleH".
+
+Bài tập 2: Kiểm tra chuỗi đối xứng
+Viết một chương trình kiểm tra xem một chuỗi có phải là chuỗi đối xứng hay không. Ví dụ: chuỗi "madam" là đối xứng, còn chuỗi "hello" không phải là đối xứng.
+
+Bài tập 3: Đếm số từ trong chuỗi
+Viết một chương trình đếm số từ trong một chuỗi. Giả sử các từ trong chuỗi được ngăn cách bởi dấu cách. Ví dụ: chuỗi "Hello world, how are you?" có 6 từ.
+
+Bài tập 4: Tìm từ dài nhất trong chuỗi
+Viết một chương trình tìm từ dài nhất trong một chuỗi và in ra độ dài của từ đó. Ví dụ: đối với chuỗi "The quick brown fox", từ dài nhất là "quick" với độ dài là 5.
+
+Bài tập 5: Xóa khoảng trắng dư thừa
+Viết một chương trình nhận một chuỗi từ người dùng và xóa bỏ khoảng trắng dư thừa trong chuỗi đó. Ví dụ: nếu người dùng nhập " Hello world! ", chương trình sẽ in ra "Hello world!".
+
+Bài tập 6: Thay thế ký tự
+Viết một chương trình nhận một chuỗi và thay thế tất cả các ký tự cụ thể trong chuỗi đó bằng một ký tự khác. Ví dụ: nếu người dùng nhập chuỗi "Hello", ký tự 'l' sẽ được thay thế bằng ký tự 'x', và chương trình sẽ in ra "Hexxo".
