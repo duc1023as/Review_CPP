@@ -24,6 +24,8 @@ int main(){
 	p1.print();
 	p2.print();
 
+    int x {};
+    std::cout<<x<<std::endl;
 	return 0;
 
 }
