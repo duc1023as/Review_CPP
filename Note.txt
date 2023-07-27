@@ -1,0 +1,1 @@
+Just like a struct declaration, a class declaration does not allocate any memory. It only defines what the class looks like.
