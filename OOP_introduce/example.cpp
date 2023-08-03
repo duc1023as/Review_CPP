@@ -11,8 +11,14 @@ public:
         width = _width;
         height = _height;
     }
+    RectAngle();
     int area() {return width*height;}
 };
+
+RectAngle::RectAngle(){
+    width=10;
+    height=5;
+}
 
 // void RectAngle::set_values(int _width, int _height){
 //     width = _width;
@@ -20,7 +26,7 @@ public:
 // }
 
 int main(){
-    RectAngle r1(10,5);
+    RectAngle r1;
     RectAngle r2(16,3);
     // r1.set_values(10,5);
     // r2.set_values(16,3);
