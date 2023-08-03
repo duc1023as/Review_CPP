@@ -3,3 +3,4 @@ Declare public members first, protected members next, and private members last. 
 double getValue() { return static_cast<double>(m_numerator) / m_denominator; }
 derived classes.
 private access --> default.
+member initializer list.--> {}
