@@ -1,3 +1,5 @@
 Just like a struct declaration, a class declaration does not allocate any memory. It only defines what the class looks like.
 Declare public members first, protected members next, and private members last. This spotlights the public interface and de-emphasizes implementation details.
 double getValue() { return static_cast<double>(m_numerator) / m_denominator; }
+derived classes.
+private access --> default.
