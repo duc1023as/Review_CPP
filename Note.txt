@@ -5,3 +5,4 @@ derived classes.
 private access --> default.
 member initializer list.--> {}
 type operator sign (parameters) { /*... body ...*/ }
+shallow copy --- deep copy
