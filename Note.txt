@@ -4,3 +4,4 @@ double getValue() { return static_cast<double>(m_numerator) / m_denominator; }
 derived classes.
 private access --> default.
 member initializer list.--> {}
+type operator sign (parameters) { /*... body ...*/ }
