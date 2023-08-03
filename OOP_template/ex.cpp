@@ -9,7 +9,8 @@ public:
     T getMax();
 };
 
-template<> class mypair<char> {
+template<> 
+class mypair<char> {
 private:
     char a,b;
 public:
